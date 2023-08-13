@@ -1,0 +1,6 @@
+{
+    "src": "main.cpp",
+    "out": "main",
+    "compile": "g++ -std=c++11 -o main main.cpp",
+    "run": "./main"
+}
