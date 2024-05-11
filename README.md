@@ -21,3 +21,13 @@ To use the power function in your C++ project, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/logn-time-pow.git
+
+2. Transfer to the file's directory:
+
+   ```bash
+   cd ./pow-cpp
+
+3. Run the program:
+
+   ```
+   g++ main.cpp -o output ; ./output
